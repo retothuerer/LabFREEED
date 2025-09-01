@@ -12,7 +12,7 @@ They are meant to support contributors, projects, and community members when rep
 ## About LabFREED
 
 Many concerns of software for laboratories should be solved on a **per-lab** instead of a **per-vendor** basis.  
-That’s why contributors from across the community – including [ApiniLabs](https://github.com/ApiniLabs) – are publishing open building blocks as part of the LabFREED initiative:
+That’s why contributors from across the community are publishing open building blocks as part of the LabFREED initiative:
 
 - **PAC-ID** → Standardized Representation for Identifiers Across System Borders  
 - **PAC-ID Resolver** → Service Discovery and Seamless User Handovers  
