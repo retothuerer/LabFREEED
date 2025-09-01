@@ -29,7 +29,7 @@ Found a problem with a resource? Please open an issue in this repository.
 
 ### 🔭 Conceptual Discussions
 Want to help shape the future of LabFREED?  
-Join us on the [**LabFREED Discord server**](https://labfreed.org).
+Join us on the [**LabFREED Discord server**](https://discord.com/invite/bxAghUAHFE).
 
 ### 🤝 Help & Support
 The community thrives on collaboration. For questions or assistance, reach out on Discord.
